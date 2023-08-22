@@ -22,9 +22,9 @@ Target class contains 3 labels : Good, Bad and Standard
 
 
 ### Results
+We were able to classify credit score with 81% accuracy. Please check the report for more details
+
 <img width="734" alt="image" src="https://github.com/Aman281201/Credit-Score-Classification/assets/74315059/2e6f1d67-92b3-4073-ba57-c6d19228517c">
 <img width="732" alt="image" src="https://github.com/Aman281201/Credit-Score-Classification/assets/74315059/a220263f-5d5f-4f1e-939e-b3e16fef45b2">
 <img width="871" alt="image" src="https://github.com/Aman281201/Credit-Score-Classification/assets/74315059/0bd32d91-c104-4545-a8d3-13d732700211">
-
-We were able to classify credit score with 81% accuracy. Please check the report for more details
 
